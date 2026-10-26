@@ -80,3 +80,56 @@ int main() {
 
     return 0;
 }
+/*
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 10
+10 pushed into stack.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 20
+20 pushed into stack.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 30
+30 pushed into stack.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter choice: 3
+Stack elements: 30 20 10
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter choice: 2
+Popped element: 30
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter choice: 3
+Stack elements: 20 10
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter choice: 4
+Exiting...
+*/
