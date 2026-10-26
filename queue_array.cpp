@@ -92,3 +92,63 @@ int main() {
 
     return 0;
 }
+/*
+--- QUEUE USING ARRAY ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 10
+10 inserted into queue.
+
+--- QUEUE USING ARRAY ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 20
+20 inserted into queue.
+
+--- QUEUE USING ARRAY ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 30
+30 inserted into queue.
+
+--- QUEUE USING ARRAY ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 3
+Queue elements: 10 20 30
+
+--- QUEUE USING ARRAY ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 2
+Deleted element: 10
+
+--- QUEUE USING ARRAY ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 3
+Queue elements: 20 30
+
+--- QUEUE USING ARRAY ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 4
+Exiting...
+*/
